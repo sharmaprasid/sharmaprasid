@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sharmaprasid
-- 👀 I’m interested in web development and ethical hacking
-- 🌱 I’m currently learning web development advance and ethical hacking parallely
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning web development 
 - 📫 How to reach me
  📞+9779861691967 or mail me at
 prasidpoudelsharma@gmail.com
